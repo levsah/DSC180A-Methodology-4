@@ -1,6 +1,4 @@
----
-title: Home
----
+
 
 # Levy Sahoo — slsahoo@ucsd.edu
 **Section & Mentor:** _Section B03 — Tauhidur Rahman_
