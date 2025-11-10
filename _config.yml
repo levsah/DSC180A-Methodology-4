@@ -1,0 +1,10 @@
+title: "DSC180A–Methodology–4"
+description: "Levy Sahoo — UCSD"
+email: slsahoo@ucsd.edu
+
+# Simple built-in theme (no extra setup)
+theme: jekyll-theme-cayman
+
+# Optional but nice to have
+url: https://levsah.github.io
+baseurl: /DSC180A-Methodology-4   # <- repo name (omit if using a user/organization site)
